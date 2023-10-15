@@ -1,0 +1,8 @@
+{
+  "domainName": "example.com",
+  "organization": "Example Corporation",
+  "adminId": "admin123",
+  "email": "admin@example.com",
+  "phone": "123-456-7890",
+  "fax": "987-654-3210"
+}

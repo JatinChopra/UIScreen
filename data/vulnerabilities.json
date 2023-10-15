@@ -1,0 +1,77 @@
+[
+  {
+    "difficulty": 2,
+    "text": "MS17-01: Security update for Microsoft Windows",
+    "quantity": 3
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-02: Patch for Internet Explorer",
+    "quantity": 5
+  },
+  {
+    "difficulty": 0,
+    "text": "MS17-03: Update for Microsoft Office",
+    "quantity": 10
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-04: Remote code execution vulnerability in Adobe Flash Player",
+    "quantity": 2
+  },
+  {
+    "difficulty": 2,
+    "text": "MS17-05: Critical security update for Windows Server 2016",
+    "quantity": 1
+  },
+  {
+    "difficulty": 0,
+    "text": "MS17-06: Security update for Microsoft Office Excel",
+    "quantity": 7
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-07: Internet Explorer cumulative security update",
+    "quantity": 4
+  },
+  {
+    "difficulty": 2,
+    "text": "MS17-08: Critical update for Windows Defender",
+    "quantity": 2
+  },
+  {
+    "difficulty": 0,
+    "text": "MS17-09: Update for Microsoft SQL Server",
+    "quantity": 6
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-10: Security update for Adobe Reader",
+    "quantity": 3
+  },
+  {
+    "difficulty": 2,
+    "text": "MS17-11: Critical security update for Windows 10",
+    "quantity": 1
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-12: Security update for Microsoft Edge",
+    "quantity": 5
+  },
+  {
+    "difficulty": 0,
+    "text": "MS17-13: Update for Microsoft Outlook",
+    "quantity": 9
+  },
+  {
+    "difficulty": 1,
+    "text": "MS17-14: Remote code execution vulnerability in Java",
+    "quantity": 2
+  },
+  {
+    "difficulty": 2,
+    "text": "MS17-15: Critical security update for Windows Server 2012",
+    "quantity": 1
+  }
+]

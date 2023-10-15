@@ -1,0 +1,72 @@
+[
+  {
+    "bug_name": "SQLi",
+    "detected_on": "example.com",
+    "date": "2023-10-14",
+    "time": "15:30:45",
+    "severity": 2
+  },
+  {
+    "bug_name": "XSS",
+    "detected_on": "company.net",
+    "date": "2023-10-15",
+    "time": "09:45:20",
+    "severity": 1
+  },
+  {
+    "bug_name": "CSRF",
+    "detected_on": "acmecorp.com",
+    "date": "2023-10-16",
+    "time": "12:15:30",
+    "severity": 2
+  },
+  {
+    "bug_name": "RCE",
+    "detected_on": "example.org",
+    "date": "2023-10-17",
+    "time": "18:20:10",
+    "severity": 0
+  },
+  {
+    "bug_name": "IDOR",
+    "detected_on": "example.com",
+    "date": "2023-10-14",
+    "time": "15:30:45",
+    "severity": 2
+  },
+  {
+    "bug_name": "SSRF",
+    "detected_on": "company.net",
+    "date": "2023-10-15",
+    "time": "09:45:20",
+    "severity": 1
+  },
+  {
+    "bug_name": "XSS",
+    "detected_on": "acmecorp.com",
+    "date": "2023-10-16",
+    "time": "12:15:30",
+    "severity": 2
+  },
+  {
+    "bug_name": "CSRF",
+    "detected_on": "example.org",
+    "date": "2023-10-17",
+    "time": "18:20:10",
+    "severity": 0
+  },
+  {
+    "bug_name": "RCE",
+    "detected_on": "example.com",
+    "date": "2023-10-14",
+    "time": "15:30:45",
+    "severity": 2
+  },
+  {
+    "bug_name": "IDOR",
+    "detected_on": "company.net",
+    "date": "2023-10-15",
+    "time": "09:45:20",
+    "severity": 1
+  }
+]

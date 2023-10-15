@@ -1,0 +1,122 @@
+[
+  {
+    "username": "John",
+    "company": "ABC Inc",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "Emily",
+    "company": "XYZ Co",
+    "activity": "triaged the report",
+    "status": 1
+  },
+  {
+    "username": "Michael",
+    "company": "123 Corp",
+    "activity": "closed the report",
+    "status": 1
+  },
+  {
+    "username": "Sarah",
+    "company": "Tech Solutions",
+    "activity": "triaged the report",
+    "status": 0
+  },
+  {
+    "username": "David",
+    "company": "Data Systems",
+    "activity": "closed the report",
+    "status": 0
+  },
+  {
+    "username": "Alice",
+    "company": "Tech Innovators",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "Robert",
+    "company": "Global Corp",
+    "activity": "triaged the report",
+    "status": 1
+  },
+  {
+    "username": "Samantha",
+    "company": "InnoTech",
+    "activity": "closed the report",
+    "status": 1
+  },
+  {
+    "username": "Eric",
+    "company": "Tech Solutions",
+    "activity": "triaged the report",
+    "status": 0
+  },
+  {
+    "username": "Linda",
+    "company": "Data Systems",
+    "activity": "closed the report",
+    "status": 0
+  },
+  {
+    "username": "Daniel",
+    "company": "ABC Inc",
+    "activity": "triaged the report",
+    "status": 1
+  },
+  {
+    "username": "Olivia",
+    "company": "XYZ Co",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "William",
+    "company": "InnoTech",
+    "activity": "triaged the report",
+    "status": 1
+  },
+  {
+    "username": "Ava",
+    "company": "Global Corp",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "Ethan",
+    "company": "Data Systems",
+    "activity": "closed the report",
+    "status": 0
+  },
+  {
+    "username": "Mia",
+    "company": "Tech Innovators",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "Samuel",
+    "company": "InnoTech",
+    "activity": "triaged the report",
+    "status": 1
+  },
+  {
+    "username": "Sophia",
+    "company": "Global Corp",
+    "activity": "closed the report",
+    "status": 0
+  },
+  {
+    "username": "Oliver",
+    "company": "Tech Innovators",
+    "activity": "closed the report",
+    "status": 2
+  },
+  {
+    "username": "Charlotte",
+    "company": "ABC Inc",
+    "activity": "closed the report",
+    "status": 1
+  }
+]
